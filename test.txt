@@ -8,3 +8,5 @@ six
 
 test2 - one,two
 test2 - three,four
+
+test3 - one,two,three
